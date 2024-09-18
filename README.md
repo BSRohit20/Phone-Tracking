@@ -1,7 +1,7 @@
 
-```markdown
-# Simple Python Projects
 
+## Simple Python Projects
+```markdown
 This repository contains two simple Python scripts that demonstrate different functionalities:
 
 1. **Phone Number Location & Time Zone Tracker** (`phone_number_info.py`): Extracts details such as time zone, location, and service provider from a given phone number.
